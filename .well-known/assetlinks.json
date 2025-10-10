@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "derrr.sit",
+      "sha256_cert_fingerprints": ["B0:13:CC:C0:E9:02:9A:90:A4:A8:54:C9:F4:F7:B0:D6:20:B4:91:5D:7E:1E:47:CB:64:23:BB:D5:47:3A:11:53"]
+    }
+  }
+]
